@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url("akshay.jpg.webp");
+}
+.content{
+    height: 420px;
+    width: 345px;
+    background: black;
+    color: white;
+    margin: 14px;
+    padding: 13px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+.content2{
+    height: 200px;
+    width: 345px;
+    background: black;
+    color: white;
+    margin-left: 40px;
+    padding-left: 13px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
